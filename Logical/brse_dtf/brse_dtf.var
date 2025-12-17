@@ -1,0 +1,6 @@
+VAR CONSTANT
+	BRSE_DTF_ERR_FORMAT : UINT := 53902; (*Unexpected date time format*)
+	BRSE_DTF_ERR_INPUT : UINT := 53901; (*Input pointer zero*)
+	BRSE_DTF_CENTURY_OFFSET : UINT := 2000; (*09 - 02 - 23 --> 2009 - 02 - 23*)
+	BRSE_DTF_MAX_LENGTH_STRING : UINT := 50; (*user defined max length of the format/output string*)
+END_VAR
