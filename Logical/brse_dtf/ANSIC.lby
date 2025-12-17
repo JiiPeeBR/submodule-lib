@@ -9,6 +9,7 @@
     <File>brse_dtf.c</File>
     <File>version_history.c</File>
     <File>example.c</File>
+    <File>jp.var</File>
   </Files>
   <Dependencies>
     <Dependency ObjectName="sys_lib" />
