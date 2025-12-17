@@ -10,6 +10,7 @@
     <File>version_history.c</File>
     <File>example.c</File>
     <File>jp.var</File>
+    <File>Johan.typ</File>
   </Files>
   <Dependencies>
     <Dependency ObjectName="sys_lib" />
